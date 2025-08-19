@@ -2,6 +2,10 @@
 
 A comprehensive GUI application for analyzing and optimizing Palo Alto Networks firewall security policies. The tool provides detailed analysis of rule shadowing, merge opportunities, and usage patterns to help security administrators optimize their firewall configurations.
 
+![Screenshot 01](https://raw.githubusercontent.com/gh0stinthemirr0r/pan_evaluator/main/sceenshots/screenshot01.png)
+
+![Screenshot 02](https://raw.githubusercontent.com/gh0stinthemirr0r/pan_evaluator/main/sceenshots/screenshot02.png)
+
 ## Features
 
 ### 🔍 **Dual Analysis Modes**
