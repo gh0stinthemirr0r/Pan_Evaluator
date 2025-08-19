@@ -24,7 +24,7 @@ setup(
     description="A comprehensive GUI application for analyzing and optimizing Palo Alto Networks firewall security policies",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pan_evaluator",
+    url="https://github.com/gh0stinthemirr0r/pan_evaluator",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -54,8 +54,8 @@ setup(
     zip_safe=False,
     keywords="palo alto networks firewall security policy analysis optimization",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/pan_evaluator/issues",
-        "Source": "https://github.com/yourusername/pan_evaluator",
-        "Documentation": "https://github.com/yourusername/pan_evaluator#readme",
+        "Bug Reports": "https://github.com/gh0stinthemirr0r/pan_evaluator/issues",
+        "Source": "https://github.com/gh0stinthemirr0r/pan_evaluator",
+        "Documentation": "https://github.com/gh0stinthemirr0r/pan_evaluator#readme",
     },
 )
